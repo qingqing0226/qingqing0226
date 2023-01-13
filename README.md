@@ -26,7 +26,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/qingqing-dai)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/qingqing-dai)
+- 🔭 I’m currently working on two fullstack projects, [puppiesAPI](https://github.com/qingqing0226/puppiesAPI) and [FoodStore](https://github.com/qingqing0226/FoodStore-backend/tree/master)
+- 👯 I also contributed to  [JusTask](https://github.com/intElligentSTHLM)
 
 
 ---
@@ -58,6 +60,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40" />&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qingqing0226&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingqing0226)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **qingqing0226/qingqing0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
