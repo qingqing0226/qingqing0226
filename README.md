@@ -24,10 +24,10 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+- :zap: In my free time, I solve problems on Codewars, read tech articles, make cakes 🍰 & enjoy time with my cat Oreo 🐱.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qingqing-dai/)
-- 🔭 I’m currently working on two fullstack projects, [MilkStore](https://github.com/qingqing0226/milk-store-frontend) and [Foodie](https://github.com/qingqing0226/FoodStore-backend)
+- 🔭 I’m currently working on a fullstack project, [Foodie](https://github.com/qingqing0226/FoodStore-backend) which is a website for a food store.
 - 👯 I also contributed to  [JusTask](https://github.com/intElligentSTHLM)
 
 
